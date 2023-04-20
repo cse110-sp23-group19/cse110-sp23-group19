@@ -45,6 +45,8 @@ Hi everyone, I am a third year CS major and I'm from Cupertino CA. I am interest
 
 ### Zejun Zhou
 
+Hello everyone, this is Zejun Zhou from Beijing China. I'm a third year Math-CS student and I'm interested in software engineering. Beside school works I spend most of my times in gyms and basketball court. 
+
 
 
 
