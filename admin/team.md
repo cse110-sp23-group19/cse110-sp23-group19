@@ -1,18 +1,21 @@
 # Group page
 
-## team name
+## 0xDEADBEEF
 
 ## brand
 
+
+
 ## values
 
-
-
+TBD
 
 
 ## roster + summary for each person
 
 ### Tarun Murugan - Team Leader
+
+Yo, I’m Tarun. I’m a 2nd year computer science major from Chennai, India. My current interest is machine learning and I hope to become an entrepreneur in the space. My hobbies include attempting to cook Michelin star meals and working out.
 
 ### Brandon Salinas Sancchez - Team Leader
 
