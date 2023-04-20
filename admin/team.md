@@ -28,6 +28,7 @@ Hey, I'm currently a 2nd year CS major and I was born and raised in San Diego, C
 ### Daniel Lee
 
 ### Kai Yeung
+Hi! I am a final Year Math -Computer Science Major. I am interested in all math problems, software engineering development. Outside of school I enjoy watching YouTube and play basketball.
 
 ### Jessie Zhu 
 
