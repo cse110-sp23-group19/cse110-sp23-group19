@@ -35,6 +35,8 @@ Hi! I am a third Year Computer Science Major from San Jose, CA. I am interested 
 
 ### Ryan Goh
 
+Hey, I'm a 3rd year computer engineering major from Orange County. I plan on pursuing a career in Software Engineering. In my free time I like watching basketball, playing games with friends, and listening to music.
+
 ### Sherwin Motlagh
 
 Hi everyone, I am a third year CS major and I'm from Cupertino CA. I am interested in software engineering. I also like to play OW2 on my free time, add me battlenetID: Tatsumi#12178 
