@@ -58,8 +58,7 @@ help me i don't exist
 
 ### [Zejun Zhou](help.me.i.dont.exist)
 
-help me i don't exist
-
+Hello everyone, this is Zejun Zhou from Beijing China. I'm a third year Math-CS student and I'm interested in software engineering. Beside school works I spend most of my times in gyms and basketball court. 
 
 
 ## humor/culture/misc things
