@@ -29,7 +29,7 @@ Hey, I'm currently a 2nd year CS major and I was born and raised in San Diego, C
 
 ### [Daniel Lee](https://github.com/dannytlee12)
 
-help me i dont exist
+Hello I am a fourth year math-cs major from Danville in the bay area. I plan on doing something related to software engineering. A couple hobbies for me are cooking, hanging out w my cat, and playing league
 
 ![image](https://user-images.githubusercontent.com/43154527/233706865-f365fc8a-69cb-47a1-bbd5-f0a79508ae6f.png)
 
