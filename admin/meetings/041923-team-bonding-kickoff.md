@@ -13,8 +13,6 @@
 5. Talk about our group page
 6. Group bonding - among us + screenshot of zoom meeting
 
-
-
 ## Meeting summary:
 
 - We have finalized on the team name "0xDEADBEEF". This choice was made because it is an uncommon name and topic, and it is easy to make jokes and brand around. 
@@ -26,6 +24,12 @@
 - TA hunt, WYA
 - We will be wrapping up what's not finished on Friday of this week, meeting at the Avery Library. 
 
+
+## For the next meeting:
+- We will be wrapping things up to turn in
+- Make sure to record your videos and send them to Tarun
+- Next meeting: Friday at the Biomed library. 
+- Play with chatgpt for our 8-ball assignment
 
 ### Group Bonding:
 <img width="409" alt="Screenshot 2023-04-20 at 5 40 19 PM" src="https://user-images.githubusercontent.com/43154527/233514491-465ee34a-23d6-4591-a5ce-9398c3dfee31.png">
