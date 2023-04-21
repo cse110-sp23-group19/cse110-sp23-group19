@@ -51,9 +51,7 @@ Hi everyone, I am a third year CS major and I'm from Cupertino CA. I am interest
 
 ### [Vincent Arnaudin](https://github.com/vincentarnaudin)
 
-help me i don't exist
-
-![image](https://user-images.githubusercontent.com/43154527/233707308-05a18e5b-6b3d-4469-858b-36989f311859.png)
+I am Vincent Arnaudin, I am a student coming from France and I am 21. I love playing tennis and surfing I also love to cook even if I am not that good.
 
 
 ### [Zejun Zhou](help.me.i.dont.exist)
