@@ -29,11 +29,11 @@ Yo, I’m Tarun. I’m a 2nd year computer science major from Chennai, India. My
 
 Hello, My name is Brandon Salinas Sanchez and I am a 2nd year CS major! In the future I plan to become a software engineer. I am from Carlsbad, CA and I like to listen to music and hang out with friends.
 
-### [Andric Li](help.me.i.dont.exist)
+### [Andric Li](https://github.com/arl009)
 
 Hey, I'm currently a 2nd year CS major and I was born and raised in San Diego, CA. I plan on doing something related to software engineering. Some of my hobbies include playing tennis, doing origami, hiking, and photography.
 
-### [Daniel Lee](help.me.i.dont.exist)
+### [Daniel Lee](https://github.com/dannytlee12)
 
 help me i dont exist
 
@@ -44,11 +44,11 @@ Hi! I am a final Year Math -Computer Science Major. I am interested in all math 
 
 Hi! I am a third Year Computer Science Major from San Jose, CA. I am interested in going into Software Engineering or DevOps. Outside of school I enjoy explore cities and trying new foods. 
 
-### [Ryan Goh](help.me.i.dont.exist)
+### [Ryan Goh](https://github.com/Rygoh1)
 
 Hey, I'm a 3rd year computer engineering major from Orange County. I plan on pursuing a career in Software Engineering. In my free time I like watching basketball, playing games with friends, and listening to music.
 
-### [Sherwin Motlagh](help.me.i.dont.exist)
+### [Sherwin Motlagh](https://github.com/sherwin25)
 
 Hi everyone, I am a third year CS major and I'm from Cupertino CA. I am interested in software engineering. I also like to play OW2 on my free time, add me battlenetID: Tatsumi#12178 
 
