@@ -13,8 +13,8 @@ This is a magic hex number.
 1. A good team must have strong communication, keeping everyone on the same page. 
 2. We will create with good integrity and intentions
 3. We will have good time management and scheduling habits
-4. Members will show good work ethics and team sportsmanship. 
-5. Team members will be respectful of each other for a safe environment. 
+4. Members will maintain a good work ethics and team sportsmanship. 
+5. Team members will be respectful of each other and keep a safe emotional environment. 
 
 TBD
 
