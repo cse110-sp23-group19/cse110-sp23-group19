@@ -2,11 +2,7 @@
 
 ## Team Name: 0xDEADBEEF
 
-This is a magic hex number. 
-
-## brand
-
-
+This is a magical hex number. 
 
 ## Team Values
 
@@ -15,8 +11,6 @@ This is a magic hex number.
 3. We will have good time management and scheduling habits
 4. Members will maintain a good work ethics and team sportsmanship. 
 5. Team members will be respectful of each other and keep a safe emotional environment. 
-
-TBD
 
 
 ## Team Roster
@@ -37,6 +31,9 @@ Hey, I'm currently a 2nd year CS major and I was born and raised in San Diego, C
 
 help me i dont exist
 
+![image](https://user-images.githubusercontent.com/43154527/233706865-f365fc8a-69cb-47a1-bbd5-f0a79508ae6f.png)
+
+
 ### [Kai Yeung](https://github.com/kyy006)
 Hi! I am a final Year Math -Computer Science Major. I am interested in all math problems, software engineering development. Outside of school I enjoy watching YouTube and play basketball.
 
@@ -56,9 +53,33 @@ Hi everyone, I am a third year CS major and I'm from Cupertino CA. I am interest
 
 help me i don't exist
 
+![image](https://user-images.githubusercontent.com/43154527/233707308-05a18e5b-6b3d-4469-858b-36989f311859.png)
+
+
 ### [Zejun Zhou](help.me.i.dont.exist)
 
 Hello everyone, this is Zejun Zhou from Beijing China. I'm a third year Math-CS student and I'm interested in software engineering. Beside school works I spend most of my times in gyms and basketball court. 
 
 
 ## humor/culture/misc things
+
+
+![image](https://user-images.githubusercontent.com/43154527/233709578-33bca980-e803-4912-b103-fc4cc9ec2e30.png)
+
+
+![image](https://user-images.githubusercontent.com/43154527/233709760-15dba784-452c-4f15-81cc-30ff6b5c8ad5.png)
+
+
+![image](https://user-images.githubusercontent.com/43154527/233709840-158cd482-0f53-438c-9106-ea3c45130386.png)
+
+
+![image](https://user-images.githubusercontent.com/43154527/233707667-80ef6762-39d8-43f3-8492-aa3a7c48a570.png)
+
+
+![image](https://user-images.githubusercontent.com/43154527/233708510-09fee16a-b9d9-47f0-85b7-4ecf6c019e5b.png)
+
+
+
+
+
+
