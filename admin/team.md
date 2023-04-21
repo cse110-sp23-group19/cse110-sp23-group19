@@ -31,9 +31,6 @@ Hey, I'm currently a 2nd year CS major and I was born and raised in San Diego, C
 
 Hello I am a fourth year math-cs major from Danville in the bay area. I plan on doing something related to software engineering. A couple hobbies for me are cooking, hanging out w my cat, and playing league
 
-![image](https://user-images.githubusercontent.com/43154527/233706865-f365fc8a-69cb-47a1-bbd5-f0a79508ae6f.png)
-
-
 ### [Kai Yeung](https://github.com/kyy006)
 Hi! I am a final Year Math -Computer Science Major. I am interested in all math problems, software engineering development. Outside of school I enjoy watching YouTube and play basketball.
 
