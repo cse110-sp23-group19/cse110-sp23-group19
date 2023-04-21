@@ -1,4 +1,4 @@
-# Team Bonding + Planning
+# Team Bonding + Kickoff
 
 ## 04/19/23 - 8-9pm, on Zoom
 
@@ -8,10 +8,10 @@
 
 1. Discuss and finalize our brand
 2. Discuss and finalize our contract
-3. Talk about our video
-4. Talk about our group page
-5. Group bonding - among us + screenshot of zoom meeting
-6. Where is our TA?
+3. Discuss how we will be meeting, dates and things
+4. Talk about our video
+5. Talk about our group page
+6. Group bonding - among us + screenshot of zoom meeting
 
 
 
@@ -21,6 +21,7 @@
 - We have finalized our contract but will reformat the document friday
 - We are keeping our original idea for the video: 10s of everyoned doing their own hobby
 - Everyone needs to send Jessie their bio for the group page or add it yourself on github (we missing two people)
+- Meeting times and logistics outlined in the contract
 - Group bonding - Amongus 
 - TA hunt, WYA
 - We will be wrapping up what's not finished on Friday of this week, meeting at the Avery Library. 
