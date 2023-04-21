@@ -1,6 +1,6 @@
 # Team Bonding + Kickoff
 
-## 04/19/23 - 8-9pm, on Zoom
+## 04/19/23 - 8-9:30pm, on Zoom
 
 ## Missing Members: none
 
