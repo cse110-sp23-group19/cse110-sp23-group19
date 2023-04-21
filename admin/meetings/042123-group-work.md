@@ -5,7 +5,7 @@
 ### Members of the team are to drop by for at least 1-2 hours in this time frame to work on things. This meeting is to work on
 the items due 4/19 and work on the 8-ball assignment. 
 
-## Missing Members: [tbd], so far only Jessie and Brandon
+## Missing Members: [tbd] Jessie, Brandon, Kai, Zejun, Daniel, Andric
 
 ## To do:
 
@@ -19,4 +19,5 @@ the items due 4/19 and work on the 8-ball assignment.
 ## Meeting summary:
 
 - Brandon worked on reformatting the contract
-- [tbd]
+- Andric and Brandon made progress on the 8-ball assignment
+- 
