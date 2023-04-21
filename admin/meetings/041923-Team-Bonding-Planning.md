@@ -1,0 +1,30 @@
+# Team Bonding + Planning
+
+## 04/19/23 - 8-9pm, on Zoom
+
+## Missing Members: none
+
+## To do:
+
+1. Discuss and finalize our brand
+2. Discuss and finalize our contract
+3. Talk about our video
+4. Talk about our group page
+5. Group bonding - among us + screenshot of zoom meeting
+6. Where is our TA?
+
+
+
+## Meeting summary:
+
+- We have finalized on the team name "0xDEADBEEF". This choice was made because it is an uncommon name and topic, and it is easy to make jokes and brand around. 
+- We have finalized our contract but will reformat the document friday
+- We are keeping our original idea for the video: 10s of everyoned doing their own hobby
+- Everyone needs to send Jessie their bio for the group page or add it yourself on github (we missing two people)
+- Group bonding - Amongus 
+- TA hunt, WYA
+- We will be wrapping up what's not finished on Friday of this week, meeting at the Avery Library. 
+
+
+### Group Bonding:
+<img width="409" alt="Screenshot 2023-04-20 at 5 40 19 PM" src="https://user-images.githubusercontent.com/43154527/233514491-465ee34a-23d6-4591-a5ce-9398c3dfee31.png">
