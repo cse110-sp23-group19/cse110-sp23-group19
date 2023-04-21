@@ -1,51 +1,64 @@
 # Group page
 
-## 0xDEADBEEF
+## Team Name: 0xDEADBEEF
+
+This is a magic hex number. 
 
 ## brand
 
 
 
-## values
+## Team Values
+
+1. A good team must have strong communication, keeping everyone on the same page. 
+2. We will create with good integrity and intentions
+3. We will have good time management and scheduling habits
+4. Members will show good work ethics and team sportsmanship. 
+5. Team members will be respectful of each other for a safe environment. 
 
 TBD
 
 
-## roster + summary for each person
+## Team Roster
 
-### Tarun Murugan - Team Leader
+### [Tarun Murugan](https://github.com/tarunm20) - Team Leader
 
 Yo, I’m Tarun. I’m a 2nd year computer science major from Chennai, India. My current interest is machine learning and I hope to become an entrepreneur in the space. My hobbies include attempting to cook Michelin star meals and working out.
 
-### Brandon Salinas Sancchez - Team Leader
+### [Brandon Salinas Sancchez](https://github.com/bsalinassanchez) - Team Leader
 
 Hello, My name is Brandon Salinas Sanchez and I am a 2nd year CS major! In the future I plan to become a software engineer. I am from Carlsbad, CA and I like to listen to music and hang out with friends.
 
-### Andric Li
+### [Andric Li](help.me.i.dont.exist)
 
 Hey, I'm currently a 2nd year CS major and I was born and raised in San Diego, CA. I plan on doing something related to software engineering. Some of my hobbies include playing tennis, doing origami, hiking, and photography.
 
-### Daniel Lee
+### [Daniel Lee](help.me.i.dont.exist)
 
-### Kai Yeung
+help me i dont exist
+
+### [Kai Yeung](https://github.com/kyy006)
 Hi! I am a final Year Math -Computer Science Major. I am interested in all math problems, software engineering development. Outside of school I enjoy watching YouTube and play basketball.
 
-### Jessie Zhu 
+### [Jessie Zhu](https://github.com/jesszhu71)
 
 Hi! I am a third Year Computer Science Major from San Jose, CA. I am interested in going into Software Engineering or DevOps. Outside of school I enjoy explore cities and trying new foods. 
 
-### Ryan Goh
+### [Ryan Goh](help.me.i.dont.exist)
 
 Hey, I'm a 3rd year computer engineering major from Orange County. I plan on pursuing a career in Software Engineering. In my free time I like watching basketball, playing games with friends, and listening to music.
 
-### Sherwin Motlagh
+### [Sherwin Motlagh](help.me.i.dont.exist)
 
 Hi everyone, I am a third year CS major and I'm from Cupertino CA. I am interested in software engineering. I also like to play OW2 on my free time, add me battlenetID: Tatsumi#12178 
 
-### Vincent Arnaudin
+### [Vincent Arnaudin](https://github.com/vincentarnaudin)
 
-### Zejun Zhou
+help me i don't exist
 
+### [Zejun Zhou](help.me.i.dont.exist)
+
+help me i don't exist
 
 
 
