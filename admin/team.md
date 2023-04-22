@@ -51,7 +51,7 @@ Hi everyone, I am a third year CS major and I'm from Cupertino CA. I am interest
 I am Vincent Arnaudin, I am a student coming from France and I am 21. I love playing tennis and surfing I also love to cook even if I am not that good.
 
 
-### [Zejun Zhou](help.me.i.dont.exist)
+### [Zejun Zhou](https://github.com/zezhou20)
 
 Hello everyone, this is Zejun Zhou from Beijing China. I'm a third year Math-CS student and I'm interested in software engineering. Beside school works I spend most of my times in gyms and basketball court. 
 
