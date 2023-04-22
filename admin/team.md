@@ -4,6 +4,8 @@
 
 This is a magical hex number. 
 
+Our team colors are black and white. 
+
 ## Team Values
 
 1. A good team must have strong communication, keeping everyone on the same page. 
