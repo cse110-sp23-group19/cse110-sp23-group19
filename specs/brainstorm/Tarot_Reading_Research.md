@@ -41,8 +41,6 @@
   - What You Have – What You Want – How to Get There
   - What Will Help – What Will Hinder – Your Potential
   - Goals – Obstacles – Tools
-- For the purpose of our project we will probably be asking one over arching question instead to generalize our 3 card spread
-
 ## How to read the cards
 -  Tarot cards are meant to act as a mirror rather than a definitive answer, and you are meant to find your own meaning within the cards
 -  However our program probably has to inteperit in its own way for the user
