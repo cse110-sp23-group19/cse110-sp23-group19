@@ -88,4 +88,5 @@ Using github actions
 
 **Pipeline Diagram**
 Here is what our initial CI pipeline will look like
+
 ![pipeline](./phase1.drawio.png)
