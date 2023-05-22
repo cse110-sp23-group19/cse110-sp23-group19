@@ -18,16 +18,16 @@ Linting and code style enforcement, code quality tools, human code reviews, unit
 
 **Linting Example**
 Here we are setting up the linting
-![linting setup](/../eslint-setup-file.png)
+![linting setup]("/../eslint-setup-file.png")
 
 Linting pass case
-![linting pass](/../lint-pass-case.png)
+![linting pass]("/../lint-pass-case.png")
 
 Linting fail case
-![linting fail](./../lint-fail-case.png)
+![linting fail]("./../lint-fail-case.png")
 
 Using github actions
-![github actions](./../github-actions-setup.png)
+![github actions]("./../github-actions-setup.png")
 
 **Code Quality via Tools**: Code quality tools, such as Codeclimate, Codacy, or SonarQube, analyze the codebase to assess various aspects of code quality, including complexity, maintainability, test coverage, and potential bugs or vulnerabilities. These tools provide automated checks and generate reports or metrics, helping developers identify areas for improvement and maintain a high level of code quality.
 
