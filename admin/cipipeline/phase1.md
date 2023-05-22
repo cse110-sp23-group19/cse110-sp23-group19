@@ -84,3 +84,8 @@ Using github actions
 - Generated documentation may lack context and narrative structure.
 - May not capture complex or non-obvious relationships and dependencies.
 - Requires a learning curve for understanding and configuring the documentation generation tool.
+
+
+**Pipeline Diagram**
+Here is what our initial CI pipeline will look like
+![pipeline](./phase1.drawio.png)
