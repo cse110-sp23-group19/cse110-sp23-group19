@@ -86,7 +86,7 @@ Using github actions
 - Requires a learning curve for understanding and configuring the documentation generation tool.
 
 
-**Pipeline Diagram**
+## Pipeline Diagram
 Here is what our initial CI pipeline will look like
 
 ![pipeline](./phase1.drawio.png)
