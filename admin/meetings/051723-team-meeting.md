@@ -1,6 +1,6 @@
 # Group Project Brainstorming Session
 
-## 05/03/23 - 11:00am-, at cseb230
+## 05/17/23 - 11:00am-, at cseb230
 
 ### Members of the team are to drop by for at least 1-2 hours to help brainstorm final project ideas.
 
